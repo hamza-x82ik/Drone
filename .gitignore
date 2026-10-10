@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+logs/
+tests/_audit.jsonl
+.venv/
+.DS_Store
