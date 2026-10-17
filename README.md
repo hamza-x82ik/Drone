@@ -251,11 +251,11 @@ LICENSE            MIT licence
 
 | Name | Contribution |
 |---|---|
-| Ali Shahnawaz Awan | **TODO:** describe your contribution |
+| Ali Shahnawaz Awan | 
 
 ## Development tools
 
-AI-assisted development tools used: **TODO:** list them (for example KIRO, Claude).
+AI-assisted development tools used: Claude
 
 The project's own model is the open-weight model listed in the AI component section.
 
@@ -267,5 +267,4 @@ MIT. See [LICENSE](LICENSE).
 
 - [Ollama](https://ollama.com) for local model serving
 - Qwen team (Alibaba Cloud) for Qwen2.5 and Qwen3 (Apache 2.0)
-- **TODO:** the API provider and model vendor you used
 - Hacktoberfest Islamabad 2026 organizers
